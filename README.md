@@ -10,6 +10,9 @@ https://github.com/Celaleddinn/kodlyoruzilkrepo.git
 ```
 
 ## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+
 Linux için:
 
 ```
